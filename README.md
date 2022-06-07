@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...reading
 - 🌱 I’m currently learning ...AI
 - 💞️ I’m looking to collaborate on ...a AI developer that we can build a solution to help autistic kid
-- 📫 How to reach me ...samanthahw21@outlook.com
+- 📫 ....
 
 <!---
 samanthahw21/samanthahw21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
