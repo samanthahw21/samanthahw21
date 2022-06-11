@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samantha
 - 👀 I’m interested in ...reading
 - 🌱 I’m currently learning ...AI
-- 💞️ I’m looking to collaborate on ...a AI developer that we can build a solution to help autistic kid
+- 💞️ I’m looking to collaborate on ...a AI developer that we can build a solution to help special kid
 - 📫 ....
 
 <!---
